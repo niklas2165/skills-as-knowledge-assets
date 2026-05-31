@@ -1,0 +1,6 @@
+,evaluability_score,output_verifiability,tests_quality,thresholds_quality,error_handling
+evaluability_score,1.0,0.6221,0.4864,0.716,0.6899
+output_verifiability,0.6221,1.0,0.225,0.4194,0.3629
+tests_quality,0.4864,0.225,1.0,0.1887,0.359
+thresholds_quality,0.716,0.4194,0.1887,1.0,0.3677
+error_handling,0.6899,0.3629,0.359,0.3677,1.0

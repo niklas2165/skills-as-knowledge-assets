@@ -1,0 +1,6 @@
+scope,count,share
+micro_task,0,0.0
+single_bounded_task,32,0.2667
+multi_step_workflow,59,0.4917
+end_to_end_process,28,0.2333
+unclear,1,0.0083

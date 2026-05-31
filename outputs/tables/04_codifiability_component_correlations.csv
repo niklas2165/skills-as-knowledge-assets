@@ -1,0 +1,6 @@
+,codifiability_score,explicitness,documentation_quality,tacit_dependency,context_sensitivity
+codifiability_score,1.0,0.6719,0.6018,-0.4975,-0.2212
+explicitness,0.6719,1.0,0.4617,-0.58,0.1162
+documentation_quality,0.6018,0.4617,1.0,-0.255,-0.0418
+tacit_dependency,-0.4975,-0.58,-0.255,1.0,-0.2325
+context_sensitivity,-0.2212,0.1162,-0.0418,-0.2325,1.0

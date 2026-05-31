@@ -1,0 +1,6 @@
+knowledge_type,procedural,analytical,orchestration,compliance,documentation
+procedural,106,40,41,8,16
+analytical,40,50,12,3,7
+orchestration,41,12,41,1,4
+compliance,8,3,1,8,0
+documentation,16,7,4,0,20

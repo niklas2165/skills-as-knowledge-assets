@@ -1,0 +1,6 @@
+skill_id,skill_name,category,codifiability_score,evaluability_score,evaluation_type,tests_quality,thresholds_quality,output_verifiability,error_handling,scope,coordination_burden,dom_group,provenance_clarity,maintenance_signals,safety_notes,scope_limits,snyk_status,socket_status,agent_trust_hub_status
+DM09,code-documenter,document-management,4,3,objective,3,2,3,2,multi_step_workflow,2,two dominant,4,2,1,3,missing,missing,missing
+ET09,freecodecamp-curriculum,education-and-training,3,3,objective,4,3,3,3,end_to_end_process,3,procedural,3,0,0,1,pass,pass,pass
+SC07,openclaw-control-center,security-and-compliance,3,3,hybrid,3,2,2,3,end_to_end_process,4,orchestration,3,0,4,3,fail,pass,warn
+SD09,golang-pro,software-development,3,3,objective,2,3,3,2,multi_step_workflow,2,procedural,4,2,1,2,pass,pass,pass
+SM08,social-media-analyzer,social-media-management,3,3,objective,0,4,4,2,multi_step_workflow,2,procedural,2,0,0,0,pass,pass,pass

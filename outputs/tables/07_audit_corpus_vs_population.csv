@@ -1,0 +1,15 @@
+metric,corpus_share,population_share
+snyk_status:pass,0.6917,0.5715
+snyk_status:warn,0.2083,0.2755
+snyk_status:fail,0.05,0.0564
+snyk_status:missing,0.05,0.0967
+socket_status:pass,0.9083,0.8445
+socket_status:warn,0.0417,0.0544
+socket_status:fail,0.0,0.004
+socket_status:missing,0.05,0.097
+agent_trust_hub_status:pass,0.875,0.8166
+agent_trust_hub_status:warn,0.0417,0.0418
+agent_trust_hub_status:fail,0.0333,0.0449
+agent_trust_hub_status:missing,0.05,0.0967
+pass_anywhere,0.9333,0.8877
+snyk_and_socket_pass,0.6833,0.5559

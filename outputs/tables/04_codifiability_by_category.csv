@@ -1,0 +1,13 @@
+category,display_label,n,codifiability_score_mean,codifiability_score_std,explicitness_mean,documentation_quality_mean,tacit_dependency_mean,context_sensitivity_mean
+communication-tools,Comms Tools,10,3.0,0.4714,3.7,3.4,1.7,2.0
+content-creation,Content,10,3.0,0.0,3.4,3.6,2.0,1.8
+document-management,Doc Management,10,3.0,0.6667,3.7,3.6,1.3,1.9
+education-and-training,Education,10,3.0,0.0,3.6,3.2,2.0,1.7
+research-and-analysis,Research,10,2.9,0.5676,3.7,3.3,1.9,2.2
+social-media-management,Social Media,10,2.9,0.3162,3.4,3.6,2.1,2.1
+ui-ux-design,UI/UX,10,2.8,0.4216,3.6,2.9,2.0,2.0
+project-management,Project Mgmt,10,2.7,0.483,3.5,3.2,1.9,2.2
+security-and-compliance,Security,10,2.7,0.483,3.4,3.0,1.6,2.5
+business-strategy,Business Strategy,10,2.6,0.5164,3.0,3.2,2.9,1.6
+software-development,Software Dev,10,2.6,0.6992,2.9,3.0,1.9,2.1
+financial-analysis,Finance,10,2.3,0.6749,2.6,3.0,2.4,1.8

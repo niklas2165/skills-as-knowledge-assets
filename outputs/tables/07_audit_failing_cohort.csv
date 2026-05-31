@@ -1,0 +1,9 @@
+skill_id,category,snyk_status,socket_status,agent_trust_hub_status,provenance_clarity,maintenance_signals,safety_notes,scope_limits,codifiability_score,evaluability_score
+CT10,communication-tools,pass,pass,fail,2,0,2,3,4,2
+DM01,document-management,fail,pass,pass,3,0,1,1,3,1
+ET02,education-and-training,fail,pass,pass,2,0,3,2,3,2
+FA06,financial-analysis,fail,pass,fail,2,0,1,2,3,1
+RD09,research-and-analysis,fail,pass,pass,2,0,0,1,3,1
+SC01,security-and-compliance,warn,pass,fail,2,0,4,3,2,1
+SC07,security-and-compliance,fail,pass,warn,3,0,4,3,3,3
+SM07,social-media-management,fail,warn,fail,2,0,3,3,3,2

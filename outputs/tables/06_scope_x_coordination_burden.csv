@@ -1,0 +1,6 @@
+scope,0,1,2,3,4
+micro_task,0,0,0,0,0
+single_bounded_task,0,9,22,1,0
+multi_step_workflow,0,0,43,15,1
+end_to_end_process,0,0,3,18,7
+unclear,0,1,0,0,0

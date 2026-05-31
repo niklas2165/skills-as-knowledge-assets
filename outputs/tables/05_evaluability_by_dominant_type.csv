@@ -1,0 +1,8 @@
+dominant_group,n,evaluability_score_mean,evaluability_score_std
+compliance (sole dominant),2,2.0,0.0
+two dominant types,12,1.667,0.624
+procedural (sole dominant),40,1.525,0.632
+orchestration (sole dominant),2,1.5,1.5
+documentation (sole dominant),10,1.3,0.458
+no dominant type,30,1.033,0.605
+analytical (sole dominant),24,1.0,0.577

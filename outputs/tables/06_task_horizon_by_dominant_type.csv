@@ -1,0 +1,8 @@
+dominant_group,n,coordination_burden_mean,coordination_burden_std,modal_scope
+orchestration (sole dominant),2,3.5,0.5,multi_step_workflow
+two dominant types,12,3.0,0.816,end_to_end_process
+compliance (sole dominant),2,2.5,0.5,multi_step_workflow
+procedural (sole dominant),40,2.35,0.614,multi_step_workflow
+no dominant type,30,2.267,0.629,multi_step_workflow
+documentation (sole dominant),10,2.1,0.831,single_bounded_task
+analytical (sole dominant),24,2.042,0.611,multi_step_workflow

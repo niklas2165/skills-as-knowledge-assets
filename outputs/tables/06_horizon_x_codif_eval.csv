@@ -1,0 +1,6 @@
+scope,n,mean_codifiability_score,mean_evaluability_score,mean_coordination_burden
+micro_task,0,,,
+single_bounded_task,32,2.781,1.125,1.75
+multi_step_workflow,59,2.797,1.339,2.288
+end_to_end_process,28,2.857,1.464,3.143
+unclear,1,1.0,0.0,1.0

@@ -1,0 +1,8 @@
+dominant_group,n,codifiability_score_mean,codifiability_score_std
+two dominant types,12,3.167,0.553
+compliance (sole dominant),2,3.0,0.0
+procedural (sole dominant),40,2.9,0.436
+documentation (sole dominant),10,2.9,0.3
+no dominant type,30,2.667,0.471
+analytical (sole dominant),24,2.542,0.576
+orchestration (sole dominant),2,2.5,0.5

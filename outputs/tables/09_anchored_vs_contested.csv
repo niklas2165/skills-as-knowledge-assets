@@ -1,0 +1,26 @@
+variable,variable_type,bucket,h1_h2_metric,criterion
+procedural,ordinal,middle,exact_match=0.417 (10/24),H1–H2 exact match 10/24 (10–16/24)
+analytical,ordinal,middle,exact_match=0.583 (14/24),H1–H2 exact match 14/24 (10–16/24)
+orchestration,ordinal,middle,exact_match=0.417 (10/24),H1–H2 exact match 10/24 (10–16/24)
+compliance,ordinal,middle,exact_match=0.542 (13/24),H1–H2 exact match 13/24 (10–16/24)
+documentation,ordinal,contested,exact_match=0.375 (9/24),H1–H2 exact match 9/24 < 10/24 (<42%)
+explicitness,ordinal,middle,exact_match=0.417 (10/24),H1–H2 exact match 10/24 (10–16/24)
+documentation_quality,ordinal,middle,exact_match=0.458 (11/24),H1–H2 exact match 11/24 (10–16/24)
+tacit_dependency,ordinal,contested,exact_match=0.292 (7/24),H1–H2 exact match 7/24 < 10/24 (<42%)
+context_sensitivity,ordinal,contested,exact_match=0.292 (7/24),H1–H2 exact match 7/24 < 10/24 (<42%)
+coordination_burden,ordinal,middle,exact_match=0.500 (12/24),H1–H2 exact match 12/24 (10–16/24)
+output_verifiability,ordinal,middle,exact_match=0.458 (11/24),H1–H2 exact match 11/24 (10–16/24)
+tests_quality,ordinal,well-anchored,exact_match=0.833 (20/24),H1–H2 exact match 20/24 ≥ 17/24 (≥70%)
+thresholds_quality,ordinal,contested,exact_match=0.375 (9/24),H1–H2 exact match 9/24 < 10/24 (<42%)
+error_handling,ordinal,contested,exact_match=0.333 (8/24),H1–H2 exact match 8/24 < 10/24 (<42%)
+provenance_clarity,ordinal,middle,exact_match=0.458 (11/24),H1–H2 exact match 11/24 (10–16/24)
+maintenance_signals,ordinal,middle,exact_match=0.583 (14/24),H1–H2 exact match 14/24 (10–16/24)
+safety_notes,ordinal,contested,exact_match=0.292 (7/24),H1–H2 exact match 7/24 < 10/24 (<42%)
+scope_limits,ordinal,contested,exact_match=0.375 (9/24),H1–H2 exact match 9/24 < 10/24 (<42%)
+codifiability_score,derived,middle,exact_match=0.417 (10/24),H1–H2 exact match 10/24 (10–16/24)
+evaluability_score,derived,middle,exact_match=0.458 (11/24),H1–H2 exact match 11/24 (10–16/24)
+requires_memory,binary,well-anchored,pct_agree=0.917,H1–H2 agreement 91.7% ≥ 80%
+requires_tools,binary,well-anchored,pct_agree=0.875,H1–H2 agreement 87.5% ≥ 80%
+requires_external_services,binary,well-anchored,pct_agree=0.875,H1–H2 agreement 87.5% ≥ 80%
+scope,categorical,middle,kappa=0.402,H1–H2 kappa 0.402 (0.40–0.60)
+evaluation_type,categorical,middle,kappa=0.419,H1–H2 kappa 0.419 (0.40–0.60)

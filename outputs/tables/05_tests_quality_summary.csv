@@ -1,0 +1,13 @@
+category,n_with_tests_gt0,tests_quality_0,tests_quality_1,tests_quality_2,tests_quality_3,tests_quality_4
+business-strategy,0,10,0,0,0,0
+communication-tools,1,9,1,0,0,0
+content-creation,0,10,0,0,0,0
+document-management,3,7,1,1,1,0
+education-and-training,2,8,1,0,0,1
+financial-analysis,1,9,1,0,0,0
+project-management,0,10,0,0,0,0
+research-and-analysis,0,10,0,0,0,0
+security-and-compliance,2,8,1,0,1,0
+social-media-management,1,9,0,1,0,0
+software-development,5,5,4,1,0,0
+ui-ux-design,0,10,0,0,0,0

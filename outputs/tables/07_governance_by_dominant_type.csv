@@ -1,0 +1,8 @@
+dominant_group,n,provenance_clarity_mean,maintenance_signals_mean,safety_notes_mean,scope_limits_mean,governance_total_mean
+orchestration (sole dominant),2,3.0,1.0,2.0,1.5,1.875
+two dominant types,12,2.583,0.5,1.417,2.083,1.646
+procedural (sole dominant),40,2.5,0.575,1.425,1.75,1.562
+no dominant type,30,2.7,0.9,1.1,1.333,1.508
+analytical (sole dominant),24,2.625,0.667,1.208,1.458,1.49
+documentation (sole dominant),10,2.9,0.6,0.5,1.6,1.4
+compliance (sole dominant),2,2.0,0.0,1.5,1.0,1.125

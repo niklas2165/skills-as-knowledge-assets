@@ -1,0 +1,5 @@
+quadrant,quadrant_label,condition,n_skills,share
+Q1,Above threshold,codif>=3 & eval>=3,5,0.0417
+Q2,Codified but unverifiable,codif>=3 & eval<3,86,0.7167
+Q3,Unanchored evaluability,codif<3 & eval>=3,0,0.0
+Q4,Below threshold,codif<3 & eval<3,29,0.2417

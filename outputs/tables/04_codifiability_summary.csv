@@ -1,0 +1,6 @@
+variable,inverted_in_formula,mean,median,std,n_at_0,n_at_1,n_at_2,n_at_3,n_at_4,n_at_3_or_higher
+codifiability_score,False,2.792,3.0,0.517,0,1,28,86,5,91
+explicitness,False,3.375,3.0,0.711,0,2,10,49,59,108
+documentation_quality,False,3.25,3.0,0.736,0,2,15,54,49,103
+tacit_dependency,True,1.975,2.0,0.772,1,32,58,27,2,29
+context_sensitivity,True,1.992,2.0,0.75,0,34,53,33,0,33

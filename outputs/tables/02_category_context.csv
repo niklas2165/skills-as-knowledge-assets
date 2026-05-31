@@ -1,0 +1,13 @@
+category,display_label,n_in_population,n_in_corpus,pct_official_in_pop,pct_with_any_audit_in_pop,median_installs_in_pop,retrievability_rate_in_pop
+business-strategy,Business Strategy,121,10,12.4,97.5,1262,57.0
+communication-tools,Comms Tools,67,10,40.3,97.0,2410,79.1
+content-creation,Content,303,10,16.2,90.4,1678,61.1
+document-management,Doc Management,127,10,32.3,95.3,1785,71.7
+education-and-training,Education,55,10,25.5,94.5,1424,67.3
+financial-analysis,Finance,99,10,21.2,93.9,1449,54.5
+project-management,Project Mgmt,132,10,28.0,94.7,1496,59.1
+research-and-analysis,Research,190,10,26.3,93.2,1744,58.9
+security-and-compliance,Security,134,10,23.9,91.8,2533,49.3
+social-media-management,Social Media,31,10,16.1,96.8,2277,45.2
+software-development,Software Dev,549,10,26.8,94.9,2150,64.5
+ui-ux-design,UI/UX,348,10,19.3,91.1,2359,55.2

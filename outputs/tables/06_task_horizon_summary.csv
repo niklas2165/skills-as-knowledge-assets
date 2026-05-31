@@ -1,0 +1,6 @@
+variable,mean,median,std,n_at_0,n_at_1,n_at_2,n_at_3,n_at_4,n_at_3_or_higher,share_true
+coordination_burden,2.333,2.0,0.726,0,10,68,34,8,42,
+requires_memory,0.133,0.0,0.341,104,16,,,,,0.1333
+requires_tools,0.55,1.0,0.5,54,66,,,,,0.55
+requires_external_services,0.308,0.0,0.464,83,37,,,,,0.3083
+n_requirements,0.992,1.0,0.974,49,31,32,8,,8,

@@ -1,0 +1,8 @@
+variable,kind,mean,median,std,n_at_0,n_at_1,n_at_2,n_at_3,n_at_4,n_at_3_or_higher,n_pass,n_warn,n_fail,n_missing,n_not_pass
+provenance_clarity,governance_ordinal,2.617,2.0,0.832,0,4,61,32,23,55,,,,,
+maintenance_signals,governance_ordinal,0.667,0.0,0.901,74,13,32,1,0,1,,,,,
+safety_notes,governance_ordinal,1.233,1.0,1.242,46,30,19,20,5,25,,,,,
+scope_limits,governance_ordinal,1.592,2.0,1.041,20,38,34,27,1,28,,,,,
+snyk_status,audit_status,,,,,,,,,,83,25,6,6,37
+socket_status,audit_status,,,,,,,,,,109,5,0,6,11
+agent_trust_hub_status,audit_status,,,,,,,,,,105,5,4,6,15

@@ -1,0 +1,6 @@
+knowledge_type,mean,median,std,n_at_0,n_at_1,n_at_2,n_at_3,n_at_4,n_at_3_or_higher,n_dominant_at_4
+procedural,3.3,3.0,0.693,0,1,13,55,51,106,51
+analytical,2.4,2.0,1.095,3,22,45,24,26,50,26
+orchestration,2.15,2.0,0.847,0,29,50,35,6,41,6
+compliance,0.833,1.0,0.964,53,45,14,5,3,8,3
+documentation,1.467,1.0,1.173,15,70,15,4,16,20,16

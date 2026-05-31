@@ -1,0 +1,6 @@
+,procedural,analytical,orchestration,compliance,documentation
+procedural,1.0,-0.5355,0.5383,0.0628,-0.0496
+analytical,-0.5355,1.0,-0.3099,-0.0159,0.0628
+orchestration,0.5383,-0.3099,1.0,0.0515,-0.088
+compliance,0.0628,-0.0159,0.0515,1.0,-0.0421
+documentation,-0.0496,0.0628,-0.088,-0.0421,1.0
